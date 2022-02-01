@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/polina-d.github.oi/static/css/main.42fee14a.css",
+    "main.js": "/polina-d.github.oi/static/js/main.68cc2fc8.js",
+    "static/js/787.2869e5d2.chunk.js": "/polina-d.github.oi/static/js/787.2869e5d2.chunk.js",
+    "index.html": "/polina-d.github.oi/index.html",
+    "main.42fee14a.css.map": "/polina-d.github.oi/static/css/main.42fee14a.css.map",
+    "main.68cc2fc8.js.map": "/polina-d.github.oi/static/js/main.68cc2fc8.js.map",
+    "787.2869e5d2.chunk.js.map": "/polina-d.github.oi/static/js/787.2869e5d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42fee14a.css",
+    "static/js/main.68cc2fc8.js"
+  ]
+}
